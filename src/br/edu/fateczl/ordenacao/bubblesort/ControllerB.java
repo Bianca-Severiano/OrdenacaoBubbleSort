@@ -1,8 +1,8 @@
 package br.edu.fateczl.ordenacao.bubblesort;
 
-public class Controller {
+public class ControllerB {
 
-	public Controller() {
+	public ControllerB() {
 		super();
 	}
 	
